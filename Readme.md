@@ -1,4 +1,4 @@
-# 🤖 AI Quant Hedge Fund Agent
+# 🤖 Market-Regime-Detector-AI
 
 **A Multi-Agent Reflexion System for Market Regime Detection & Strategy Formulation.**
 
