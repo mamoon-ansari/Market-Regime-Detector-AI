@@ -1,0 +1,9 @@
+yfinance 
+pandas 
+langchain
+langchain-community
+langchain-core
+langchain_groq
+langgraph 
+langchain-groq
+streamlit
